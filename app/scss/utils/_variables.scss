@@ -1,0 +1,31 @@
+/* reset */
+
+$min-width: 270px;
+$max-width: 1200px;
+$base-bg: #f9f9f9;
+$base-font-size: 14px;
+$base-line-height: 30px;
+$base-font-family: Arial,
+sans-serif;
+$custom-title-font-family: 'Comfortaa',
+sans-serif;
+$custom-font-family: 'Open Sans',
+sans-serif;
+$link-color: #36a7bf;
+$text-hover: #23a2be;
+$text-all: #39a6be;
+$default-transition: all 0.25s linear;
+
+/* main variables */
+
+//text, titles
+$text-color: #282828;
+$title-color: #2b2b2b;
+$title-font-family: $custom-title-font-family;
+$custom-font-family: $custom-font-family;
+$font-size-h1: 30px;
+$line-height-h1: 46px;
+$font-size-h2: 14px;
+$line-height-h2: 24px;
+$font-size-h3: 15px;
+$line-height-h3: 30px;
